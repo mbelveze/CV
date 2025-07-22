@@ -4,7 +4,7 @@
 ---
 |   |  |
 |:--|:--|
-|Elève de 3ème |  ![]()  |
+|Elève de 3ème |  ![](marin_cv.png)  |
 
 ## Scolarité
 
