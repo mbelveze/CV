@@ -2,9 +2,16 @@
 
 
 ---
-|   |  |
-|:--|:--|
-|Elève de 3ème | <img src="marin_cv.png" width="60px">  |
+<table>
+  <tr>
+    <td>
+      <bold>Stage de troisième</bold>
+    </td>
+    <td>
+      <img src="marin_cv.png" width="100px">
+    </td>
+  </tr>
+</table>
 
 ## Scolarité
 
