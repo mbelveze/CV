@@ -5,10 +5,10 @@
 <table>
   <tr>
     <td>
-      <bold>Stage de troisième</bold>
+      <img src="marin_cv.png" width="120px">   
     </td>
     <td>
-      <img src="marin_cv.png" width="100px">
+      <strong>Stage de troisième</strong>
     </td>
   </tr>
 </table>
