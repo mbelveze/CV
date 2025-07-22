@@ -22,7 +22,7 @@ Elève de 3ème en classe internationale au Collège public Rosa Parks de Rennes
 *sept 2025 - Present*
 - Elève en 3ème Classe Internationale
 
-*sept 2022 - sept 2025
+*sept 2022 - sept 2025*
 - Elève au Collège Rosa Parks (6ème, 5ème, 4ème)
 
 
